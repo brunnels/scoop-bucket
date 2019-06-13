@@ -4,6 +4,12 @@
     "url": "https://github.com/giorgiotani/PeaZip/releases/download/6.8.0/peazip_portable-6.8.0.WIN64.zip",
     "hash": "2e313b953007a474bc431cfd62c94c50d018166ad94e988605b5f6af455b15fb",
     "extract_dir": "peazip_portable-6.8.0.WIN64",
+    "shortcuts": [
+        [
+            "peazip.exe",
+            "Peazip"
+        ]
+    ],
     "autoupdate": {
         "url": "https://github.com/giorgiotani/PeaZip/releases/download/$version/peazip_portable-$version.WIN64.zip"
     }
