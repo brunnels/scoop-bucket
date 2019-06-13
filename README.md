@@ -10,4 +10,5 @@ scoop bucket add brunnels https://github.com/brunnels/scoop-bucket
 
 ### Apps
 - [x] [notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath.
+- [x] [peazip](https://github.com/giorgiotani/PeaZip) - PeaZip is a free file archiver utility and rar extractor for Windows and Linux, work with 180+ archive types and variants.
 
