@@ -5,13 +5,13 @@
     "bin": "Notepad3.exe",
     "url": [
         "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_5.19.108.1602/Notepad3_5.19.108.1602.zip",
-        "https://raw.githubusercontent.com/everyx/scoop-bucket/master/scripts/notepad-install-replace.reg",
-        "https://raw.githubusercontent.com/everyx/scoop-bucket/master/scripts/notepad-uninstall.reg"
+        "https://raw.githubusercontent.com/brunnels/scoop-bucket/master/scripts/notepad-install-replace.reg",
+        "https://raw.githubusercontent.com/brunnels/scoop-bucket/master/scripts/notepad-uninstall.reg"
     ],
     "hash": [
         "df952cbb4f19888732b75dee04c81527ec9a3abdf9e079f12efff1b223afec74",
-        "306bf331581183459a4fe241c1b046ee393866155c4a69f0d4a9dcf4903af634",
-        "6a3ba3f05705b0d326892d2553a4658826e7e3cc1d96b5b1c39346c2de962ef6"
+        "774b86ef9006ab4650f4b2ec3d58192235dbe4416375176596809d5924554f81",
+        "69f10bb5ef6d81d459f5e0891079c21ea2edec20224effba3f5f9398d496a745"
     ],
     "architecture": {
         "64bit": {
@@ -35,7 +35,7 @@
         "}"
     ],
     "notes": [
-        "To replac wndows notepad, run '$dir\\notepad-install-replace.reg'",
+        "To replace windows notepad, run '$dir\\notepad-install-replace.reg'",
         "Before uninstalling, run '$dir\\notepad-uninstall.reg'"
     ],
     "shortcuts": [
