@@ -13,4 +13,5 @@ scoop bucket add brunnels https://github.com/brunnels/scoop-bucket
 - [x] [peazip](https://github.com/giorgiotani/PeaZip) - PeaZip is a free file archiver utility and rar extractor for Windows and Linux, work with 180+ archive types and variants.
 - [x] [winscp-fossies](https://winscp.net) - SCP utility installed from fossies.org
 - [x] [docker-cli](https://github.com/iquiw/docker-cli-binary) Binary only for docker client
+- [x] curl-github curl install from github releases
 
