@@ -14,4 +14,5 @@ scoop bucket add brunnels https://github.com/brunnels/scoop-bucket
 - [x] [winscp-fossies](https://winscp.net) - SCP utility installed from fossies.org
 - [x] [docker-cli](https://github.com/iquiw/docker-cli-binary) Binary only for docker client
 - [x] curl-github curl install from github releases
+- [x] [msys2-alt](https://www.msys2.org/) Msys2 install direct from msys2.org rather than sourceforge
 
